@@ -77,3 +77,8 @@ You can modify the thresholds and criteria for identifying corrupt employees in 
 ## Contributing
 
 If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are welcome.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
