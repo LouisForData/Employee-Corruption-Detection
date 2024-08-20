@@ -61,7 +61,7 @@ You can either run the analysis directly in the Jupyter notebook or execute the 
     -Open notebooks/Analysis.ipynb to follow the step-by-step process.
     -Alternatively, run the following command to execute the script:
 
-       **python scripts/data_analysis.py**
+    *python scripts/data_analysis.py*
 
 ### 4. Interpreting Results
 
