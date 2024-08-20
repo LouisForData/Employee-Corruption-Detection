@@ -42,8 +42,8 @@ You can install the required libraries by running:
 
 To get a local copy of the project up and running, run:
 
-git clone https://github.com/your-username/employee-corruption-detection.git
-cd employee-corruption-detection.
+**git clone https://github.com/your-username/employee-corruption-detection.git**
+**cd employee-corruption-detection.**
 
 ### 2. Data Preparation
 
@@ -61,7 +61,7 @@ You can either run the analysis directly in the Jupyter notebook or execute the 
     -Open notebooks/Analysis.ipynb to follow the step-by-step process.
     -Alternatively, run the following command to execute the script:
 
-    *python scripts/data_analysis.py*
+       **python scripts/data_analysis.py**
 
 ### 4. Interpreting Results
 
