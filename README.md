@@ -42,7 +42,7 @@ You can install the required libraries by running:
 
 To get a local copy of the project up and running, run:
 
-**git clone https://github.com/your-username/employee-corruption-detection.git**
+[git clone https://github.com/LouisForData/employee-corruption-detection.git](https://github.com/LouisForData/Employee-Corruption-Detection)
 **cd employee-corruption-detection.**
 
 ### 2. Data Preparation
